@@ -1,2 +1,1 @@
-# Pythonproject
-This project only for practice
+This file is only for fun purpose
